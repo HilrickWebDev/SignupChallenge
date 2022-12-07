@@ -1,0 +1,38 @@
+body {
+    background-color: hsl(0, 100%, 74%);
+    color: white;
+}
+
+#card {
+    background-color: hsl(248, 32%, 49%);
+}
+
+#card p {
+    text-align: center;
+}
+
+#form-container {
+    background-color: white;
+    align-items: center;
+}
+
+#main-container {
+    margin: 200px;
+}
+#button {
+    background-color: hsl(154, 59%, 51%);
+    border: none;
+    margin-top: 10px;
+}
+
+form {
+    margin-right: 100px;
+}
+
+.form-floating {
+    margin: 20px;
+}
+
+.form-signin {
+    align-items: center;
+}
